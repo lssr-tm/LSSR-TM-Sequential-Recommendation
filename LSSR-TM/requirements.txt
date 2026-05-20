@@ -1,0 +1,5 @@
+tensorflow==2.10.0
+numpy==1.23.5
+pandas==1.5.3
+tqdm==4.66.1
+reclearn==1.0.8
