@@ -6,15 +6,6 @@ This repository provides the source code for the paper:
 
 ## Structure
 
-.
-├── README.md
-└── LSSR-TM/
-    ├── requirements.txt
-    ├── train/lssr.py
-    ├── LSSR/model.py
-    ├── datasets/
-    └── data/
-
 - `LSSR-TM/train/lssr.py`: training and evaluation script.
 - `LSSR-TM/LSSR/model.py`: model implementation.
 - `LSSR-TM/datasets/`: dataset preprocessing and loading scripts.
